@@ -22,4 +22,4 @@
 
 ### How it Works:
 - To change product data, access the "produtos.csv" file;
-- The code "pergar_posição" has the function of providing the current position of the mouse cursor. It was used in the creation of the code."
+- The code "pergar_posição" has the function of providing the current position of the mouse cursor. It was used in the creation of the code.
